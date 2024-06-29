@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/matheeshadias" target="blank"><img src="https://img.shields.io/twitter/follow/matheeshadias?logo=twitter&style=for-the-badge" alt="matheeshadias" /></a> </p>
 
+---
+
 - 🔭 I’m currently working on [Animal Adoption and care platform from MERN stack](https://github.com/ItzNadeesH/Stray-Animal-Adoption-and-Care-Platform)
 
 - 🌱 I’m currently learning **AI/ML**
@@ -16,7 +18,7 @@
 - 📫 How to reach me **matheeshadias@gmail.com**
 
 - ⚡ Fun fact **Call me DIAS**
-
+- ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matheeshadias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheeshadias" height="30" width="40" /></a>
